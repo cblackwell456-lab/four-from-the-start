@@ -71,8 +71,10 @@ Tested in **Project64 3.0.1** by an automated test rig, not yet on real hardware
 - Real hardware (flashcarts) and emulators other than Project64: not tested. Reports are welcome in the issues.
 
 ## Credits
-gallaux, whose 4-player unlock showed that the gate was patchable. StopSine/gga, whose disassembly and compression
-tool (rommy) made this possible. The Hack64 notes author (RAM map). Almar's Guides (stat and unlock addresses).
+gallaux, whose 4-player unlock showed that the gate was patchable. rommy, the compression tool every build goes
+through, from the [Mystical Ninja Starring Goemon decompilation](https://github.com/klorfmorf/mnsg) (klorfmorf),
+adapted for this game in [StopSine/gga](https://github.com/StopSine/gga) along with its disassembly. The Hack64 notes
+author (RAM map). Almar's Guides (stat and unlock addresses).
 Much of the reverse engineering and testing was done with an AI assistant (Claude).
 
 Goemon's Great Adventure is © Konami. This is an unofficial fan patch; no game data or ROMs are distributed here.
